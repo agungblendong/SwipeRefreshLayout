@@ -32,8 +32,8 @@ android {
 }
 
 
-def siteUrl = 'https://github.com/xyxyLiu/SwipeRefreshLayout'
-def gitUrl = 'https://github.com/xyxyLiu/SwipeRefreshLayout.git'
+def siteUrl = 'https://github.com/agungblendong/SwipeRefreshLayout'
+def gitUrl = 'https://github.com/agungblendong/SwipeRefreshLayout.git'
 
 
 install {
@@ -59,9 +59,9 @@ install {
                 }
                 developers {
                     developer {
-                        id 'xyLiu'
-                        name 'xyLiu'
-                        email 'tonyreginald@gmail.com'
+                        id 'agungblendong'
+                        name 'agungblendong'
+                        email 'agungblendong@gmail.com'
                     }
                 }
                 scm {
